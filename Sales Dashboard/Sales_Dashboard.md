@@ -7,4 +7,4 @@
 ![Light mode of dashboard](https://github.com/user-attachments/assets/51b7074a-ac72-44b6-b27b-38a6d9eb56de)
 
 
-[Data used]()
+[Data used](./sales_data.xlsx)
