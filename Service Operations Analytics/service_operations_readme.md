@@ -14,14 +14,14 @@ The dashboard is built using the following datasets:
 2. **Agent Scheduling Information**: Daily scheduling data for 6 agents over January - December, 2024
 3. **Customer Information**: Data for 15 customers (C001-C015)
 4. **Historical Ticket Trends**: Monthly aggregated data for all of 2024
-5. **SLA Targets by Priority**: Service level targets for each priority level (Critical, High, Medium, Low)
+5. **SLA Targets by Priority**: Service Level Agreement (SLA) targets for each priority level (Critical, High, Medium, Low)
 
 ## Dashboard Components
 ### Key Metrics (Top Row)
 - **Tickets**: Total number of tickets (112)
 - **Average Resolution Time**: Average time to resolve tickets in hours (6.50)
 - **SLA Compliance**: Percentage of tickets resolved within SLA targets (85.29%)
-- **Average CSAT Score**: Customer satisfaction rating (3.80 out of 5)
+- **Average CSAT Score**: Customer Satisfaction (CSAT) rating (3.80 out of 5)
 
 ## Charts and Visualizations
 ### Monthly Ticket Volume by Team
@@ -38,7 +38,7 @@ The dashboard is built using the following datasets:
 
 ### Agent Performance
 - Scatter plot showing the relationship between resolution time and CSAT scores
-- Chart shows little performance variations among the 6 agents (David Wilson, Emily Davis, Jennifer Lee, John Smith, Michael Brown, Sarah Johnson)
+- Chart shows some performance variations in resolution time but CSAT score is the same among the 6 agents (David Wilson, Emily Davis, Jennifer Lee, John Smith, Michael Brown, Sarah Johnson)
 - Helps identify agents who need additional training or who demonstrate best practices
 
 ### Tickets Distribution by Team and Communication Channel
