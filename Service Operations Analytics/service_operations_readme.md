@@ -8,9 +8,7 @@ This dashboard provides a view of service operations data for the period of Janu
 
 ![Service Operations Analytics Dashboard](https://github.com/user-attachments/assets/dd8b774b-69ea-4eea-a1e1-0d1f8f5fe444)
 
-The live dashboard can be viewed using PowerBI [with this file](https://github.com/l-teefah/PowerBIDashboards/blob/main/Service%20Operations%20Analytics/Service%20Operations%20Analytics%20Dashboard.pbix)
-
-The dashboard is built using the following datasets:
+The live dashboard can be viewed using PowerBI [with this file](https://github.com/l-teefah/PowerBIDashboards/blob/main/Service%20Operations%20Analytics/Service%20Operations%20Analytics%20Dashboard.pbix) and the dashboard is built using the following datasets:
 
 1. **Ticket Data**: Service ticket entries from January 1 - December 31, 2024
 2. **Agent Scheduling Information**: Daily scheduling data for 6 agents over January - December, 2024
