@@ -206,7 +206,7 @@ The dashboard consists of multiple interconnected visualizations that provide a 
      * The adjustable thresholds help identify roles that offer exceptional value (high happiness despite moderate salary)
      * Some high-salary positions show surprisingly low satisfaction, suggesting factors beyond compensation affect happiness
 
-These insights provide valuable market intelligence for career planning, hiring strategies, educational curriculum development, and understanding the current state of the data profession landscape and these dashboard can be used by:
+These insights provide valuable market intelligence for career planning, hiring strategies, educational curriculum development, and understanding the current state of the data profession landscape and these dashboards can be used by:
 - Data professionals seeking industry benchmarks
 - HR and recruitment teams analyzing compensation trends
 - Career changers researching the data field
