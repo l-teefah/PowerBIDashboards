@@ -149,36 +149,50 @@ Max Monthly Target = 30
 The dashboard uses a carefully designed color palette optimized for dark themes and data visualization clarity.
 
 ### Primary Colors
-| Color | Hex Code | Preview |
-|-------|----------|---------|
-| Deep Navy | `#1a1d29` | <span style="display:inline-block;width:20px;height:20px;background-color:#1a1d29;border:1px solid #ccc;"></span> |
-| Card Background | `#2a2f3a` | <span style="display:inline-block;width:20px;height:20px;background-color:#2a2f3a;border:1px solid #ccc;"></span> |
-| Surface | `#363b4a` | <span style="display:inline-block;width:20px;height:20px;background-color:#363b4a;border:1px solid #ccc;"></span> |
-| Neutral Gray | `#4a5568` | <span style="display:inline-block;width:20px;height:20px;background-color:#4a5568;border:1px solid #ccc;"></span> |
+| Color | Hex Code | RGB |
+|-------|----------|-----|
+| Deep Navy | `#1a1d29` | `rgb(26, 29, 41)` |
+| Card Background | `#2a2f3a` | `rgb(42, 47, 58)` |
+| Surface | `#363b4a` | `rgb(54, 59, 74)` |
+| Neutral Gray | `#4a5568` | `rgb(74, 85, 104)` |
 
 ### Data Visualization Colors
-| Color | Hex Code | Preview |
-|-------|----------|---------|
-| Primary Blue | `#4fc3f7` | <span style="display:inline-block;width:20px;height:20px;background-color:#4fc3f7;border:1px solid #ccc;"></span> |
-| Accent Blue | `#29b6f6` | <span style="display:inline-block;width:20px;height:20px;background-color:#29b6f6;border:1px solid #ccc;"></span> |
-| Deep Blue | `#1976d2` | <span style="display:inline-block;width:20px;height:20px;background-color:#1976d2;border:1px solid #ccc;"></span> |
-| Navy Blue | `#0d47a1` | <span style="display:inline-block;width:20px;height:20px;background-color:#0d47a1;border:1px solid #ccc;"></span> |
+| Color | Hex Code | RGB |
+|-------|----------|-----|
+| Primary Blue | `#4fc3f7` | `rgb(79, 195, 247)` | 
+| Accent Blue | `#29b6f6` | `rgb(41, 182, 246)` |
+| Deep Blue | `#1976d2` | `rgb(25, 118, 210)` |
+| Navy Blue | `#0d47a1` | `rgb(13, 71, 161)` |
 
 ### Status & Supporting Colors
-| Color | Hex Code | Preview |
-|-------|----------|---------|
-| Success Green | `#81c784`  | <span style="display:inline-block;width:20px;height:20px;background-color:#81c784;border:1px solid #ccc;"></span> |
-| Warning Orange | `#ffb74d` | <span style="display:inline-block;width:20px;height:20px;background-color:#ffb74d;border:1px solid #ccc;"></span> |
-| Alert Red | `#e57373` | <span style="display:inline-block;width:20px;height:20px;background-color:#e57373;border:1px solid #ccc;"></span> |
-| Accent Purple | `#ba68c8` | <span style="display:inline-block;width:20px;height:20px;background-color:#ba68c8;border:1px solid #ccc;"></span> |
+| Color | Hex Code | RGB |
+|-------|----------|-----
+| Success Green | `#81c784` | `rgb(129, 199, 132)` |
+| Warning Orange | `#ffb74d` | `rgb(255, 183, 77)` |
+| Alert Red | `#e57373` | `rgb(229, 115, 115)` |
+| Accent Purple | `#ba68c8` | `rgb(186, 104, 200)` |
 
 ### Text Colors
-| Color | Hex Code | Preview |
-|-------|----------|---------|
-| Primary Text | `#ffffff` | <span style="display:inline-block;width:20px;height:20px;background-color:#ffffff;border:1px solid #ccc;"></span> |
-| Secondary Text | `#b0b7c3` | <span style="display:inline-block;width:20px;height:20px;background-color:#b0b7c3;border:1px solid #ccc;"></span> |
-| Muted Text | `#78849e` | <span style="display:inline-block;width:20px;height:20px;background-color:#78849e;border:1px solid #ccc;"></span> |
-| Subtle Text | `#526075`| <span style="display:inline-block;width:20px;height:20px;background-color:#526075;border:1px solid #ccc;"></span> |
+| Color | Hex Code | RGB |
+|-------|----------|-----|
+| Primary Text | `#ffffff` | `rgb(255, 255, 255)` |
+| Secondary Text | `#b0b7c3` | `rgb(176, 183, 195)` |
+| Muted Text | `#78849e` | `rgb(120, 132, 158)` |
+| Subtle Text | `#526075` | `rgb(82, 96, 117)` 
+
+### Color Progression Guide
+
+**Blue Scale (Light to Dark):**
+
+```
+#4fc3f7 → #29b6f6 → #1976d2 → #0d47a1
+```
+
+**Background Hierarchy:**
+
+```
+#1a1d29 (Main) → #2a2f3a (Cards) → #363b4a (Nested) → #4a5568 (Borders)
+```
 
 ### Power BI Implementation
 
@@ -211,8 +225,8 @@ The dashboard uses a carefully designed color palette optimized for dark themes 
 
 **Color Files:**
 
-- Full interactive palette: [Color_Palette](color_palette.html)
-- Power BI theme file: [Dashboard_Theme](dashboard_theme.json)
+- Full interactive palette: [Color Palette](color_palette.html)
+- Power BI theme file: [Dashboard Theme](dashboard_theme.json)
 
 
 ## 🔄 Data Refresh
