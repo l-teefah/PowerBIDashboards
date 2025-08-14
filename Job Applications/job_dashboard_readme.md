@@ -149,36 +149,37 @@ Max Monthly Target = 30
 The dashboard uses a carefully designed color palette optimized for dark themes and data visualization clarity.
 
 ### Primary Colors
-| Color | Hex Code | RGB |
-|-------|----------|-----|
-| Deep Navy | `#1a1d29` | `rgb(26, 29, 41)` |
-| Card Background | `#2a2f3a` | `rgb(42, 47, 58)` |
-| Surface | `#363b4a` | `rgb(54, 59, 74)` |
-| Neutral Gray | `#4a5568` | `rgb(74, 85, 104)` |
+| Color | Hex Code | Preview | Usage |
+|-------|----------|---------|-------|
+| Deep Navy | `#1a1d29` | ![#1a1d29](https://via.placeholder.com/20x20/1a1d29/1a1d29.png) | Main background, dashboard foundation |
+| Card Background | `#2a2f3a` | ![#2a2f3a](https://via.placeholder.com/20x20/2a2f3a/2a2f3a.png) | Widget containers, card backgrounds |
+| Surface | `#363b4a` | ![#363b4a](https://via.placeholder.com/20x20/363b4a/363b4a.png) | Secondary surfaces, hover states |
+| Neutral Gray | `#4a5568` | ![#4a5568](https://via.placeholder.com/20x20/4a5568/4a5568.png) | Borders, inactive elements |
 
 ### Data Visualization Colors
-| Color | Hex Code | RGB |
-|-------|----------|-----|
-| Primary Blue | `#4fc3f7` | `rgb(79, 195, 247)` | 
-| Accent Blue | `#29b6f6` | `rgb(41, 182, 246)` |
-| Deep Blue | `#1976d2` | `rgb(25, 118, 210)` |
-| Navy Blue | `#0d47a1` | `rgb(13, 71, 161)` |
+| Color | Hex Code | Preview | Usage |
+|-------|----------|---------|-------|
+| Primary Blue | `#4fc3f7` | ![#4fc3f7](https://via.placeholder.com/20x20/4fc3f7/4fc3f7.png) | Primary data series, key metrics, headers |
+| Accent Blue | `#29b6f6` | ![#29b6f6](https://via.placeholder.com/20x20/29b6f6/29b6f6.png) | Secondary data series, highlights |
+| Deep Blue | `#1976d2` | ![#1976d2](https://via.placeholder.com/20x20/1976d2/1976d2.png) | Tertiary data, dark chart elements |
+| Navy Blue | `#0d47a1` | ![#0d47a1](https://via.placeholder.com/20x20/0d47a1/0d47a1.png) | Quaternary data, contrast elements |
 
 ### Status & Supporting Colors
-| Color | Hex Code | RGB |
-|-------|----------|-----
-| Success Green | `#81c784` | `rgb(129, 199, 132)` |
-| Warning Orange | `#ffb74d` | `rgb(255, 183, 77)` |
-| Alert Red | `#e57373` | `rgb(229, 115, 115)` |
-| Accent Purple | `#ba68c8` | `rgb(186, 104, 200)` |
+| Color | Hex Code | Preview |
+|-------|----------|---------|
+| Success Green | `#81c784` | ![#81c784](https://via.placeholder.com/20x20/81c784/81c784.png) |
+| Warning Orange | `#ffb74d` | ![#ffb74d](https://via.placeholder.com/20x20/ffb74d/ffb74d.png) |
+| Alert Red | `#e57373` | ![#e57373](https://via.placeholder.com/20x20/e57373/e57373.png) |
+| Accent Purple | `#ba68c8` | ![#ba68c8](https://via.placeholder.com/20x20/ba68c8/ba68c8.png) |
 
 ### Text Colors
-| Color | Hex Code | RGB |
-|-------|----------|-----|
-| Primary Text | `#ffffff` | `rgb(255, 255, 255)` |
-| Secondary Text | `#b0b7c3` | `rgb(176, 183, 195)` |
-| Muted Text | `#78849e` | `rgb(120, 132, 158)` |
-| Subtle Text | `#526075` | `rgb(82, 96, 117)` 
+| Color | Hex Code | Preview | Usage |
+|-------|----------|---------|-------|
+| Primary Text | `#ffffff` | ![#ffffff](https://via.placeholder.com/20x20/ffffff/ffffff.png) | Primary text, labels, titles |
+| Secondary Text | `#b0b7c3` | ![#b0b7c3](https://via.placeholder.com/20x20/b0b7c3/b0b7c3.png) | Secondary text, descriptions, metadata |
+| Muted Text | `#78849e` | ![#78849e](https://via.placeholder.com/20x20/78849e/78849e.png) | Placeholder text, disabled states |
+| Subtle Text | `#526075` | ![#526075](https://via.placeholder.com/20x20/526075/526075.png) | Very subtle text, watermarks |
+
 
 ### Color Progression Guide
 
