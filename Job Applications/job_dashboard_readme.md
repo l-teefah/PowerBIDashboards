@@ -8,7 +8,7 @@ A comprehensive Power BI dashboard for analyzing job application data extracted 
 
 ## 📈 Application Metrics
 
-- **Total Applications Submitted**: Track volume over time
+- **Total Applications Submitted**: Total application volume over time
 - **Timeline Visualization**: View application activity across the 20-month period
 - **Monthly/Weekly Trends**: Identify seasonal patterns in applications
 - **Company Analysis**: Track number of applications per company 
