@@ -68,7 +68,7 @@ The dashboard is powered by data extracted from email communications mainly from
 
 ```
 Job Applications/
-├── job_dashboard_readme.md
+├── README.md
 ├── Job Applications.pbix
 ├── data/
 │   ├── raw/
