@@ -64,23 +64,6 @@ The dashboard is powered by data extracted from email communications mainly from
    - Modify visualizations based on your specific requirements
 
 
-## 📁 File Structure
-
-```
-Job Applications/
-├── README.md
-├── Job Applications.pbix
-├── data/
-│   ├── raw/
-│   │   └── my_job_applications.xlsx/
-│   ├── processed/
-│   │   └── my_job_applications_clean.xlsx
-├── scripts/
-│   ├── job_extractor.py
-└── screenshots/
-    ├── Job_applications_dashboard_overview.png
-```
-
 ## Calculated Metrics
 
 ### Calculated Columns
